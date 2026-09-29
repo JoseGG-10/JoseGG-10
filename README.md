@@ -1,4 +1,4 @@
-<h1 align="center">José Gómez García 👋 Desarrollador Web</h1>
+<h1 align="center">José Gómez García 👋 Profesor y Desarrollador Web</h1>
 
 
 - Lenguajes de programación
